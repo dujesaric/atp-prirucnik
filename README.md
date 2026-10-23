@@ -4,7 +4,7 @@ Kratki opis opreme koju koristim.
 
 ## Kome je namijenjen
 
-Podijeliti što je sve meni potrebno da izvršim zadatak
+Podijeliti što je sve meni potrebno da izvršim neki zadatak
 
 ## Moje razvojno okruženje
 
