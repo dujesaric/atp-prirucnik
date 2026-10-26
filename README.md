@@ -18,7 +18,7 @@ Podijeliti što je sve meni potrebno da izvršim neki zadatak
 
 ## Sadržaj
 
-- [Prvi koraci u terminalu](docs/prvi-koraci-u-terminalu.md): tutorial, u izradi
+- Prvi koraci u terminalu (docs/prvi-koraci-u-terminalu.md): tutorial, u izradi
 
 ## Autor i korištenje AI-a
 
