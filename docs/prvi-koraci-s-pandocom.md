@@ -61,7 +61,7 @@ warranty, not even for merchantability or fitness for a particular purpose.
 ## 4. Pretvorite Markdown u web-stranicu
 
     pandoc README.md -s -o README.html
-    Očekivani rezultat: u istoj mapi pojavljuje se datoteka README.html. Otvorite je u web-pregledniku i provjerite prikazuju li se naslovi, odlomci i popisi kao na jednostavnoj web-stranici.
+    Očekivan rezultat: u istoj mapi pojavljuje se datoteka README.html. Otvorite je u web-pregledniku i provjerite prikazuju li se naslovi, odlomci i popisi kao na jednostavnoj web-stranici.
 
 ## Ako ne radi
 
