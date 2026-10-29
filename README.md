@@ -10,7 +10,7 @@ Podijeliti što je sve meni potrebno da izvršim neki zadatak
 
 | Što | Koje |
 |---|---|
-| Operacijski sustav | npr. Windows 10 |
+| Operacijski sustav | Windows 10 |
 | Uređivač koda | Visual Studio Codium 1.140.06880 |
 | Terminal | Git Bash |
 | Git | git version 2.55.0.windows.5 |
